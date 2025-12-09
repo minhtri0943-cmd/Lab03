@@ -1,0 +1,10 @@
+D:\LapTrinhWindows\TangCuong\Lab03-02\bin\Debug\Lab03-02.exe.config
+D:\LapTrinhWindows\TangCuong\Lab03-02\bin\Debug\Lab03-02.exe
+D:\LapTrinhWindows\TangCuong\Lab03-02\bin\Debug\Lab03-02.pdb
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03-02.exe
+D:\LapTrinhWindows\TangCuong\Lab03-02\obj\Debug\Lab03-02.pdb
